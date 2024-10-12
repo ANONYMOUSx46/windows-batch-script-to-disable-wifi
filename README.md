@@ -3,6 +3,8 @@
 
 This batch script performs the following actions to disable Wi-Fi access and ensure it remains disabled on startup:
 
+Run the schedule_disable_wifi script first.
+
 1) **Release IP Address**: The script starts by releasing the current IP address assigned to the computer. This action disconnects the computer from the network.
    ```batch
    ipconfig /release
