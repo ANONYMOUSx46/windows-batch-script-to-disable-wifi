@@ -1,3 +1,5 @@
+## Created by ANONYMOUSx46
+
 ### Disable Wi-Fi and Create Scheduled Task Script
 ### Created by ANONYMOUSx46
 
